@@ -1,0 +1,15 @@
+.container {
+  width: 100%;
+}
+.createBtn {
+  text-decoration: none;
+  padding: 8px 12px;
+  background-color: rgb(122, 122, 122);
+  color: white;
+  border: 3px solid transparent;
+  position: relative;
+  top: 15px;
+}
+.createBtn:focus {
+  border: 3px solid rgb(87, 87, 87);
+}
